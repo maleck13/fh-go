@@ -6,7 +6,7 @@
   "scripts": {
     "test": "grunt unit",
     "debug": "grunt serve",
-    "start": "cmd/server/server"
+    "start": "pwd; ls; cmd/server/server"
   },
   "author": "",
   "license": "ISC"
